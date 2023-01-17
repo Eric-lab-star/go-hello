@@ -1,2 +1,2 @@
-module github.com/Eric-lab-star/hello
+module github.com/Eric-lab-star/go-hello
 go 1.19
